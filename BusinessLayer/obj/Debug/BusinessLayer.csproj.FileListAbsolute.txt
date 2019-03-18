@@ -1,0 +1,9 @@
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\obj\Debug\BusinessLayer.pdb
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\bin\Debug\DataLayer.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\bin\Debug\EntityFramework.dll
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\bin\Debug\DataLayer.pdb
+c:\users\siyabonga\documents\visual studio 2015\Projects\PhonebookApi\BusinessLayer\bin\Debug\EntityFramework.xml
