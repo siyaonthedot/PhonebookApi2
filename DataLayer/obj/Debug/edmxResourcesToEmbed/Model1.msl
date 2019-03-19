@@ -4,10 +4,10 @@
     <EntitySetMapping Name="Contacts">
       <EntityTypeMapping TypeName="PhonebookModel.Contact">
         <MappingFragment StoreEntitySet="Contacts">
-          <ScalarProperty Name="Number" ColumnName="Number" />
-          <ScalarProperty Name="LastName" ColumnName="LastName" />
-          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
           <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

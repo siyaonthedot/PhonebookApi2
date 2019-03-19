@@ -68,8 +68,9 @@ namespace BusinessLayer.Model
 
                 if (cont != null)
                 {
-                    cont.LastName = cont.LastName;
-                    cont.FirstName = cont.LastName;
+                    cont.LastName = contModel.LastName;
+                    cont.FirstName = contModel.FirstName;
+                    cont.Number = contModel.Number;
                     contactRepository.Update(cont);
                     result = "updated";
 
@@ -78,8 +79,9 @@ namespace BusinessLayer.Model
             else
             {
                 Contact cont = new Contact();
-                cont.LastName = cont.LastName;
-                cont.FirstName = cont.LastName;
+                cont.LastName = contModel.LastName;
+                cont.FirstName = contModel.FirstName;
+                cont.Number = contModel.Number;
                 var record = contactRepository.Insert(cont);
                 result = "Inserted";
             }
